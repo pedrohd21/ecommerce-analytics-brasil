@@ -1,0 +1,8 @@
+Instalar o venv
+  python -m venv venv
+
+Ativar
+  venv\Scripts\activate
+  
+Desativar
+  deactivate
